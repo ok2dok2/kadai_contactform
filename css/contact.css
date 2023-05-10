@@ -1,0 +1,49 @@
+.comntact{
+    border-collapse: collapse;
+  }  
+
+  .contact tr{
+    height: 7rem;
+  }
+  
+  .contact th{
+    width: 150px;
+    text-align : right ; 
+  }
+  
+  .contact td{
+    width: 480px;
+    padding-left: 10px;
+  }
+
+  .botton {
+    font-size: 3rem;
+    background-color: #008B8B;
+    color:white
+
+  }
+
+  .botton:hover{
+    opacity: 0.5 ;
+  }
+
+  .botton {
+    padding: 10pt;
+    display: block;
+	margin: auto;
+  }
+
+  .div { 
+    text-align : center ; 
+  }
+	
+  input.hoge {
+    width: 450px;
+ }
+
+ textarea {
+    resize: vertical;
+    width:450px;
+    height:7rem;
+  }
+
